@@ -18,6 +18,6 @@ Both end devices were assigned static IP addresses in the same subnet, and conne
 To understand how switches build MAC tables and how devices on the same LAN communicate. This is the foundation for all future networking labs like VLANs and routing.
 
 ### **How to Run**
-1. Download `basic-switch.pkt`
+1. Download `SWITCH TO END DEVICES.pkt`
 2. Open in Cisco Packet Tracer 8.2.1+
-3. PC1 → Desktop → Command Prompt → `ping 192.168.1.20`
+3. PC0 → Desktop → Command Prompt → `ping 192.168.1.3`
