@@ -20,4 +20,4 @@ To understand how switches build MAC tables and how devices on the same LAN comm
 ### **How to Run**
 1. Download `SWITCH TO END DEVICES.pkt`
 2. Open in Cisco Packet Tracer 8.2.1+
-3. PC0 → Desktop → Command Prompt → `ping 192.168.1.3`
+3. PC0 → Desktop → Command Prompt → `ping 192.168.2.5`
